@@ -17,7 +17,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/802375742947328010/1060042271837393018/LEGION_on_Instagram____KAKASHI__wacom__wacombrJPG_1.png">
+  <!--<img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/802375742947328010/1060042271837393018/LEGION_on_Instagram____KAKASHI__wacom__wacombrJPG_1.png">-->
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/802376399079735296/1062138754187395163/KAKASHI_1.png">
+</div>
 </div>
   
   ##
