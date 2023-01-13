@@ -3,10 +3,9 @@
 - :seedling: I am currently studying Information Technology Management.
 
 <br>
-
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMiguell&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMiguell&layout=compact&langs_count=7&theme=react"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViniciusMiguell&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciusMiguell&layout=compact&langs_count=7&theme=react"/>
 </div>
   
   <div style="display: inline_block"><br>
