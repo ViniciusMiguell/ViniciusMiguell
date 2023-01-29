@@ -5,9 +5,9 @@
 <br>
 <div align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusMiguell&theme=react" />
-<br></div>
+</div>
 
-<div align="center">
+<div align="center"><br>
    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViniciusMiguell&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10px"/>
    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciusMiguell&layout=compact&langs_count=7&theme=react"/>
 </div>
