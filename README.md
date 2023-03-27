@@ -1,6 +1,6 @@
 ## Hi there! I'm Vinícius Miguel
 
-- :seedling: I am currently studying Information Technology Management.
+- :seedling: I am currently studying Analysis and System Development.
 
 <br>
 <div align="center">
